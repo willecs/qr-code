@@ -19,6 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://willecs.github.io/qr-code/)
+- Live Site URL: [Live Site](https://willecs.github.io/qr-code/)
 
 
